@@ -1,0 +1,39 @@
+.container {
+  background-color: #25262c;
+  height: 105vh;
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  justify-content: center;
+}
+.bgContainer {
+  background-color: #1b1c22;
+  width: 80vw;
+  height: 80vh;
+  margin-left: 10vw;
+}
+
+.title {
+  color: #ffffff;
+  padding-left: 50px;
+}
+
+.image {
+  width: 30vw;
+  margin: 19px;
+  height: 55vh;
+}
+.textContainer {
+  float: right;
+  background-color: #25262c;
+  margin-right: 5vw;
+  width: 30vw;
+  height: 68vh;
+  border-radius: 15px;
+}
+.iconButton {
+  margin: 10px;
+  background-color: #25262c;
+  color: #ffffff;
+}
